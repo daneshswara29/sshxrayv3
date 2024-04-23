@@ -2,7 +2,7 @@
 # Script By DIYVPN
 # ==================================================
 #wget https://github.com/${GitUser}/
-GitUser="sreyaeve"
+GitUser="daneshswara29"
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;

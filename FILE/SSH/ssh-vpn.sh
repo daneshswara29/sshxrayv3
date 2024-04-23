@@ -143,7 +143,7 @@ cd
 mkdir /home/vps
 mkdir /home/vps/public_html
 wget -O /home/vps/public_html/index.html "https://raw.githubusercontent.com/daneshswara29/sshxrayv3/main/FILE/SSH/multiport"
-wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/daneshswara29/sshxrayv3/main/FILE/SSH/.htaccess"
+#wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/daneshswara29/sshxrayv3/main/FILE/SSH/.htaccess"
 mkdir /home/vps/public_html/ss-ws
 mkdir /home/vps/public_html/clash-ws
 # install badvpn
